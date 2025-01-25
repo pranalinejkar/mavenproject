@@ -72,5 +72,5 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         </executions>
       </plugin>
     </plugins>
-nan  </build>
+  </build>
 </project>
